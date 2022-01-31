@@ -1,0 +1,57 @@
+<!doctype html>
+<html>
+<head>
+    <link href="main_styles.css" rel="stylesheet" />
+    <link href="main_layout.css" rel="stylesheet" />
+    <meta charset="utf-8" />
+</head>
+<body>
+    
+    <header>English 10 Documents</header>
+
+    <title>English 10 Docs</title>
+
+    <h1><u>Daily Prompts</u></h1>
+    
+    <header>
+        <nav>
+            <ul>
+                <li><a href="Aug27.html">August 27</a></li>
+                <li><a href="Aug31.html">August 31</a></li>
+                <li><a href="Sep2.html">September 2</a></li>
+                <li><a href="Sep9.html">September 9</a></li>
+                <li><a href="Sep13.html">September 13</a></li>
+                <li><a href="Sep15.html">September 15</a></li>
+                <li><a href="Sep20.html">September 20</a></li>
+                <li><a href="Sep22.html">September 22</a></li>
+                <li><a href="Sep28.html">September 28</a></li>
+                <li><a href="Sep30.html">September 30</a></li>
+                <li><a href="narrative.html">October 4</a></li>
+                <li><a href="404.html">October 6</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <h1><u>
+        Notes
+    </u></h1>
+
+    <h2>
+        Module 1
+    </h2>
+
+    <nav>
+        <ul>
+            <li><a href="characterization-review.html">Characterization Notes</a></li>
+            <li><a href="HorrorFacts.html">Horror Facts</a></li>
+            <li><a href="horrorforeshadowing.html">Foreshadowing in Horror Movies</a></li>
+            <li><a href="symbolism.html">Symbolism</a></li>
+            <li><a href="allergory.html">Allegory</a></li>
+            <li><a href="housetakenover.html">House Taken Over Reading Questions</a></li>
+        </ul>
+    </nav>
+
+</body>
+<footer>Connor Perry | English 10 | Battlefield High School</a></footer>
+<footer>All Dates referred to are from the 2021-2022 School Year unless otherwise stated</footer>
+</html>
